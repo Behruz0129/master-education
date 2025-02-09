@@ -1,0 +1,25 @@
+{
+    "teachers": [
+        {
+            "id": 1,
+            "name": "Abdullayev Jasur",
+            "position": "Senior o'qituvchi",
+            "rating": "98.2%",
+            "certificateUrl": "./certificates/certificate1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Karimova Nilufar",
+            "position": "Metodist o'qituvchi",
+            "rating": "95.8%",
+            "certificateUrl": "./certificates/certificate2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Rahmonov Sardor",
+            "position": "Amaliyotchi o'qituvchi",
+            "rating": "97.5%",
+            "certificateUrl": "./certificates/certificate3.jpg"
+        }
+    ]
+}
